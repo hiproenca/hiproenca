@@ -12,6 +12,4 @@ Skills Front-end
 
 HTML  CSS 
 
-Gráfico
 
-Encerramento 

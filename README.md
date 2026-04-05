@@ -1,4 +1,4 @@
-# Olá!! :bear:
+# Olá!!
 
 Meu nome é **Higor Proença** estudo programação desde 2022, trabalho com **Back-end**, estou atualmente estudando em uma bolsa de **desenvolvimento de Software** na Cubos Academy. Também atuo como **voluntário** em um núcleo de tecnologia que ensina programação para jovens e crianças em situação de vulnerabilidade; desde então, minha paixão pelo desenvolvimento de software só aumenta!
 
